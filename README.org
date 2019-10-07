@@ -1,5 +1,7 @@
 This is my personal solution to the further practice of [[https://reactjs.org/tutorial/tutorial.html][React's tic-tac-toe tutorial]].
 
+![2019-10-07_16-35-37](https://user-images.githubusercontent.com/20374208/66316632-af40de00-e920-11e9-883e-80c876ded412.gif)
+
 Here are the improvements listed in order of increasing difficulty:
 1. [X] Display the location for each move in the format (col, row) in the move history list.
 2. [X] Bold the currently selected item in the move list.
