@@ -10,7 +10,7 @@ Here are the improvements listed in order of increasing difficulty:
 
 * Usage
 #+BEGIN_SRC sh
-git clone https://github.com/goxr3plus/React-Tic-Tac-Toe.git
+git clone https://github.com/kelanwu/react-tic-tac-toe.git
 cd react-tic-tac-toe
 npm install
 npm start
